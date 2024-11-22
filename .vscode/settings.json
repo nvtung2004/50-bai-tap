@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "iomanip": "cpp",
+        "stdexcept": "cpp",
+        "memory": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "iostream": "cpp"
+    }
+}
